@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jjjjjhello.github.io/carol</id>
     <title>Lotus</title>
-    <updated>2020-12-18T09:53:40.944Z</updated>
+    <updated>2020-12-18T10:03:06.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jjjjjhello.github.io/carol"/>
     <link rel="self" href="https://jjjjjhello.github.io/carol/atom.xml"/>
@@ -10,16 +10,4 @@
     <logo>https://jjjjjhello.github.io/carol/images/avatar.png</logo>
     <icon>https://jjjjjhello.github.io/carol/favicon.ico</icon>
     <rights>All rights reserved 2020, Lotus</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello ]]></title>
-        <id>https://jjjjjhello.github.io/carol/post/hello-gridea/</id>
-        <link href="https://jjjjjhello.github.io/carol/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jjjjjhello.github.io/carol/post-images/1608285011456.jpg" alt="" loading="lazy"></figure>
-]]></summary>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jjjjjhello.github.io/carol/post-images/1608285011456.jpg" alt="" loading="lazy"></figure>
-<!-- more -->
-]]></content>
-    </entry>
 </feed>
